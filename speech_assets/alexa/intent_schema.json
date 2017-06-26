@@ -1,0 +1,6 @@
+{
+  "intents": [
+    {"intent": "Intro"},
+    {"intent": "AMAZON.CancelIntent"}
+  ]
+}
